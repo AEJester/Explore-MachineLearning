@@ -19,9 +19,9 @@ This model trains to a ~90% accuracy rating after 10 epochs. Upon testing the mo
 ## Conclusion
 Machine Learning and Neural Networks can be very useful everyhere, as I have demonstrated by the above. Although these are very simple, it gives a clear understanding of how they can be used in today's society.
 
-Citation information:
-Published on: March 13th, 2019
-Author: Ryan Monaghan Jr.
-Article title: Machine Learning and its Applications
-Website title: Machine Learning in society
+Citation information:\n
+Published on: March 13th, 2019\n
+Author: Ryan Monaghan Jr.\n
+Article title: Machine Learning and its Applications\n
+Website title: Machine Learning in society\n
 URL: https://github.com/AEJester/Explore-MachineLearning
